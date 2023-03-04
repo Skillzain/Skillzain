@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there 👋
 
 <!--
-**Skillzain/Skillzain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Cosmos Jackson :sunglasses:
 
-Here are some ideas to get you started:
+A Frontend Software Engineer and Technical Writer who is very Passionate about learning, building and solving problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also love working with the developer communities on a global scale, writing technical articles.
+
+    🚀 You can connect with me on:
+        Twitter: @skillzain
+        LinkedIn: @skillzain
+
+🥂 Cheers!
